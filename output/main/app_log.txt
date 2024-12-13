@@ -1,0 +1,2 @@
+2024-12-13 22:37:02,651 - INFO - Login attempt by username: admin
+2024-12-13 22:37:02,660 - INFO - External program started: D:\Downloads\Yandex.exe

@@ -1,0 +1,49 @@
+2024-12-13 21:32:47,099 - WARNING - Login failed for username: admiin
+2024-12-13 21:37:41,225 - INFO - Login attempt by username: admin
+2024-12-13 21:37:41,226 - ERROR - Failed to start the external program: [WinError 2] Не удается найти указанный файл
+2024-12-13 21:38:36,518 - INFO - Login attempt by username: admin
+2024-12-13 21:38:36,519 - ERROR - Failed to start the external program: [WinError 2] Не удается найти указанный файл
+2024-12-13 21:38:55,471 - INFO - Login attempt by username: admin
+2024-12-13 21:38:55,499 - ERROR - Failed to start the external program: [WinError 193] %1 не является приложением Win32
+2024-12-13 21:39:33,697 - INFO - Login attempt by username: admin
+2024-12-13 21:39:33,699 - ERROR - Failed to start the external program: [WinError 193] %1 не является приложением Win32
+2024-12-13 21:40:09,795 - INFO - Login attempt by username: admin
+2024-12-13 21:40:09,847 - INFO - External program started: D:\Downloads\Yandex.exe
+2024-12-13 21:42:38,540 - INFO - Login attempt by username: admin
+2024-12-13 21:42:38,545 - INFO - External program started: D:\Downloads\Yandex.exe
+2024-12-13 21:43:02,861 - INFO - Login attempt by username: admin
+2024-12-13 21:43:16,508 - INFO - Login attempt by username: admin
+2024-12-13 21:43:42,664 - INFO - Login attempt by username: admin
+2024-12-13 21:43:42,667 - INFO - External program started: D:\Downloads\Yandex.exe
+2024-12-13 21:45:16,333 - INFO - Login attempt by username: admin
+2024-12-13 21:45:16,339 - INFO - External program started: D:\Downloads\Yandex.exe
+2024-12-13 21:46:13,974 - INFO - Login attempt by username: admin
+2024-12-13 21:46:13,979 - INFO - External program started: D:\Downloads\Yandex.exe
+2024-12-13 21:46:33,829 - INFO - Login attempt by username: admin
+2024-12-13 21:46:33,833 - INFO - External program started: D:\Downloads\Yandex.exe
+2024-12-13 21:46:47,363 - INFO - Login attempt by username: admin
+2024-12-13 21:46:47,366 - INFO - External program started: D:\Downloads\Yandex.exe
+2024-12-13 21:47:08,573 - INFO - Login attempt by username: admin
+2024-12-13 21:47:23,265 - INFO - Login attempt by username: admin
+2024-12-13 21:48:19,019 - INFO - Login attempt by username: admin
+2024-12-13 21:48:19,024 - INFO - External program started: D:\Downloads\Yandex.exe
+2024-12-13 21:48:50,831 - INFO - Login attempt by username: admin
+2024-12-13 21:48:50,836 - INFO - External program started: D:\Downloads\Yandex.exe
+2024-12-13 21:49:07,665 - INFO - Login attempt by username: admin
+2024-12-13 21:49:07,671 - INFO - External program started: D:\Downloads\Yandex.exe
+2024-12-13 21:52:42,648 - INFO - Login attempt by username: admin
+2024-12-13 21:52:42,652 - INFO - External program started: D:\Downloads\Yandex.exe
+2024-12-13 21:53:20,358 - INFO - Login attempt by username: admin
+2024-12-13 21:53:20,363 - INFO - External program started: D:\Downloads\Yandex.exe
+2024-12-13 21:54:59,766 - INFO - Login attempt by username: admin
+2024-12-13 21:54:59,772 - INFO - External program started: D:\Downloads\Yandex.exe
+2024-12-13 21:55:08,113 - WARNING - Login failed for username: admin
+2024-12-13 21:57:52,489 - INFO - Login attempt by username: admin
+2024-12-13 21:57:52,493 - INFO - External program started: D:\Downloads\Yandex.exe
+2024-12-13 22:02:07,614 - INFO - Login attempt by username: test
+2024-12-13 22:02:07,617 - INFO - External program started: D:\Downloads\Yandex.exe
+2024-12-13 22:07:19,702 - INFO - Login attempt by username: test
+2024-12-13 22:07:19,706 - INFO - External program started: D:\Downloads\Yandex.exe
+2024-12-13 22:16:23,725 - WARNING - Login failed for username: admin
+2024-12-13 22:32:59,686 - WARNING - Login failed for username: admin
+2024-12-13 22:35:51,816 - WARNING - Login failed for username: admin
